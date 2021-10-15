@@ -1,0 +1,52 @@
+# Data Statement for Misinfo Reaction Frames Corpus (MRF)
+Dataset name: Misinfo Reaction Frames Corpus (v1)
+
+Citation: Misinfo Reaction Frames: Reasoning about Readers' Reactions to News Headlines. Saadia Gabriel, Skyler Hallinan, Maarten Sap, Pemi Nguyen, Franziska Roesner, Eunsol Choi and Yejin Choi. ArXiv. 2021. 
+
+Dataset developers: Saadia Gabriel, Maarten Sap, Skyler Hallinan, Eunsol Choi
+
+Data statement author: Saadia Gabriel
+
+A. CURATION RATIONALE
+We release the Misinfo Reaction Frames corpus, which covers 202.3k news headline/annotated dimension pairs capturing the writer intents, potential reader perceptions and reader actions associated with Covid-19, climate and cancer misinfo/real news, as well as likelihood of a reader sharing the headline, perceived labels and fact-checked gold labels. There are 69.8k unique implications for 25.1k news headlines.
+
+We included news headlines from the following sources:
+
+NELAGT-2018-2020 (Gruppi et al., 2020; Norregaard et al., 2019)
+
+SciDCC dataset (Mishra and Mittal, 2021)
+
+Climate-FEVER (Diggelmann et al., 2020)
+
+DETERRENT dataset (Cui et al., 2020)
+
+CoAID dataset (Cui and Lee, 2020)
+
+CoronaVirusFacts/DatosCoronaVirus Alliance Database (https://www.poynter.org/ifcn-covid-19-misinformation/)
+
+B. LANGUAGE VARIETY/VARIETIES
+
+English 
+
+C. SPEAKER DEMOGRAPHIC
+
+News articles come from a variety of sources and writers, especially for Covid misinformation which was sourced from international news.
+
+D. ANNOTATOR DEMOGRAPHIC
+
+We provided an optional demographic survey to
+MTurk workers during annotation. Of the 63 annotators who reported ethnicity, 82.54% identified as White, 9.52% as Black/African-American,
+6.35% as Asian/Pacific Islander, and 1.59% as Hispanic/Latino. For self-identified gender, 59% were
+male and 41% were female. Annotators were generally well-educated, with 74% reporting having a
+professional degree, college-level degree or higher.
+Most annotators were between the ages of 25 and
+54 (88%). We also asked annotators for news preferences. New York Times, CNN, Twitter, Washington Post, NPR, Reddit, Reuters, BBC, YouTube and
+Facebook were reported as the 10 most common
+news sources.
+
+About this document
+A data statement is a characterization of a dataset that provides context to allow developers and users to better understand how experimental results might generalize, how software might be appropriately deployed, and what biases might be reflected in systems built on the software.
+
+Data Statements are from the University of Washington. Contact: datastatements@uw.edu. This document template is licensed as CC0.
+
+This version of the markdown Data Statement is from October 15th 2021. The Data Statement template is based on worksheets distributed at the 2020 LREC workshop on Data Statements, by Emily M. Bender, Batya Friedman, and Angelina McMillan-Major. Adapted to community Markdown template by Leon Dercyznski.
