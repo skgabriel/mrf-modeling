@@ -2,7 +2,7 @@
 
 Even to a simple and short news headline, readers react in a multitude of ways: cognitively (e.g., inferring the writer's intent), emotionally (e.g., feeling distrust), and behaviorally (e.g., sharing the news with their friends). Such reactions are instantaneous and yet complex, as they rely on factors that go beyond interpreting the factual content the news headline. We propose Misinfo Reaction Frames, a pragmatic formalism for modeling how readers might react to a news headline.
 
-![alt text](https://github.com/misinfo-belief/misinfo-modeling/blob/main/Misinfo_Reaction_Frames.png)
+![alt text](https://github.com/skgabriel/mrf-modeling/blob/main/Misinfo_Reaction_Frames.png)
 
 We release the Misinfo Reaction Frames corpus, which covers over 200k headline/implication pairs capturing the writer intents, potential reader perceptions and reader actions associated with Covid-19, climate and cancer misinfo/real news, as well as likelihood of a reader sharing the headline, perceived labels and fact-checked gold labels.  
 
