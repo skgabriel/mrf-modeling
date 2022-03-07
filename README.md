@@ -37,9 +37,6 @@ Link to [GPT-2 (small)](https://drive.google.com/drive/u/0/folders/1Z_HQ4MEZ3p6h
 
 Link to [T5-base](https://drive.google.com/drive/u/0/folders/1JQmWmC_1he6Ng7ght_Y12foUipI2lzi8) 
 
-
-## Full repo coming soon! 
-
 ## If you use this work, please cite us: 
 
 ```
