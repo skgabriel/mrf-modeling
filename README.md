@@ -18,7 +18,7 @@ Each data split is in a .tsv file with the following header format:
 
 Link to [data splits](https://drive.google.com/drive/folders/1RGrwbnj-Z25OeU4S6Di_JzX07P_2TdtZ?usp=sharing) 
 
-Link to [current version of data statement](https://github.com/misinfo-belief/misinfo-modeling/blob/main/data_statement.txt) 
+Link to [current version of data statement](https://github.com/skgabriel/mrf-modeling/blob/main/data_statement.txt) 
 
 ## Pretrained Models 
 
