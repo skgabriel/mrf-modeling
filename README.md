@@ -27,7 +27,7 @@ truths. We urge caution in generalizing beliefs or taking beliefs held in certai
 
 The goal of publicly releasing this work is to aid in misinformation detection efforts and countering misinformation, as well as research aimed at better understanding intent of written text. We do not condone use of this work in unethical technology applications like purposefully generating deceptive text. 
 
-These models can be loaded using huggingface implementations for GPT-2 [link](https://huggingface.co/transformers/model_doc/gpt2.html) and T5 [link](https://huggingface.co/transformers/model_doc/t5.html). We have provided links to download models as well as demo code. 
+These models can be loaded using huggingface implementations for GPT-2 and T5. We have provided links to download models as well as [demo code](https://github.com/skgabriel/mrf-modeling/blob/main/demo.py). 
 
 Link to [GPT-2 (large)](https://huggingface.co/petrichorRainbow/mrf-GPT)
 
