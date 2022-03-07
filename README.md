@@ -37,6 +37,18 @@ Link to [GPT-2 (small)](https://drive.google.com/drive/u/0/folders/1Z_HQ4MEZ3p6h
 
 Link to [T5-base](https://drive.google.com/drive/u/0/folders/1JQmWmC_1he6Ng7ght_Y12foUipI2lzi8) 
 
+## Demo Instructions 
+
+To test out pretrained models, make sure requirements are installed using 
+
+pip -r requirements.txt 
+
+Then run the demo script.
+
+Example: python demo.py --model_type "gpt" --device "any" --input_file "./examples/examples.txt" --output_file "output.jsonl"
+
+The input file should be a ".txt" file with one headline per line. An example file is given in the examples subfolder. The output will be a json file with predictions for each dimension. If you specify "any" as the device, the script will automatically use a gpu if available and the cpu otherwise. Otherwise, you can specify "cpu" or "cuda" for using gpus. The two options for model_type at the moment are "gpt" and "t5." 
+
 ## If you use this work, please cite us: 
 
 ```
